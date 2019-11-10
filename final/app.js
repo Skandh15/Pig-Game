@@ -90,4 +90,8 @@ function init() {
     document.querySelector('.player-0-panel').classList.add('active');
 }
 
-
+console.log("Hellp");
+console.log("Hellp0");
+console.log("Hellp1");
+console.log("Hellp2");
+console.log("Hellp3");
